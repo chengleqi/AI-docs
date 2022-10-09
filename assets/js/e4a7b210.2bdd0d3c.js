@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcube=self.webpackChunkcube||[]).push([[8982],{2037:e=>{e.exports=JSON.parse('{"permalink":"/AI-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
