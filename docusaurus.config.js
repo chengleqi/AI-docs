@@ -9,7 +9,7 @@ const config = {
   title: "云原生AI平台",
   tagline: "使用指南",
   url: "https://chengleqi.com",
-  baseUrl: "/",
+  baseUrl: "/AI-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
