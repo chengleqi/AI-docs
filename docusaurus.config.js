@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "云原生AI平台",
   tagline: "使用指南",
-  url: "https://docs.ai.chengleqi.com",
+  url: "https://chengleqi.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
