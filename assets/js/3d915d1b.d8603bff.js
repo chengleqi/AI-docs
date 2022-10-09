@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcube=self.webpackChunkcube||[]).push([[171],{4544:e=>{e.exports=JSON.parse('{"title":"\u67b6\u6784","slug":"/category/\u67b6\u6784","permalink":"/AI-docs/docs/category/\u67b6\u6784","navigation":{"previous":{"title":"\u7b80\u4ecb","permalink":"/AI-docs/docs/intro"},"next":{"title":"\u67b6\u6784","permalink":"/AI-docs/docs/\u67b6\u6784/"}}}')}}]);
