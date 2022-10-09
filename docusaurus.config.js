@@ -69,6 +69,11 @@ const config = {
             position: "left",
             label: "文档",
           },
+          {
+            href: "https://github.com/chengleqi",
+            label: "GitHub",
+            position: "right",
+          },
         ],
       },
       footer: {
