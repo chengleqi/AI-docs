@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-与VSCode类似
+参考VSCode

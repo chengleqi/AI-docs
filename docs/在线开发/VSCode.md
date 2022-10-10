@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 
-# VSCode示例
+# VSCode
 
 ## 申请步骤
-1. 找到在线开发界面，点击添加notebook
+1. 在线开发界面点击添加notebook
 
-2. 申请资源，点击确定
+2. 申请资源
 ![](img/申请资源.png)
 
-3. 当状态为Running时代表VSCode已创建成功可以进行开发
+1. 当状态为Running时代表VSCode已创建成功，可以进入VSCode进行开发和训练
 
 ## 使用技巧
 
