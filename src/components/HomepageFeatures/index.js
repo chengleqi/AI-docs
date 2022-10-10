@@ -6,12 +6,12 @@ const FeatureList = [
   {
     title: "使用简单",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
-    description: <>简单配置，一键发起训练任务</>,
+    description: <>简单配置，一键发起训练任务；支持DAG流水线编排</>,
   },
   {
     title: "弹性伸缩",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <>通过Rancher和Terraform，分钟级伸缩节点</>,
+    description: <>通过Rancher和Terraform，分钟级伸缩节点，大幅缩短训练时间</>,
   },
   {
     title: "可观测性",

@@ -1,0 +1,22 @@
+# 流水线编排
+
+流水线由一个个可复用的模块构成。
+
+```go
+// module
+download := `数据下载`
+process := `数据处理`
+train := `训练`
+service := `服务上线`
+
+// pipeline1 Step by Step
+pipeline1 := download + process + train + service
+
+// pipeline2 DAG
+pipeline2 := download + process + process + train + service
+
+```
+
+:::tip
+联系管理员即可
+:::
