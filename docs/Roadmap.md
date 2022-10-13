@@ -8,3 +8,7 @@ sidebar_position: 9
 - [ ] (调研)Kserve项目和[Seldon项目](https://github.com/SeldonIO)
 - [ ] 改进KubeFlow项目的training operator
 - [ ] (调研)为提高GPU利用率，调研第四范式k8s-vgpu-scheduler
+
+一个新的自研平台
+
+![自研平台](../docs/架构/img/%E8%87%AA%E7%A0%94.drawio.png)
